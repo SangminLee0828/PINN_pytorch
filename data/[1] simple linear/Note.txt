@@ -1,0 +1,3 @@
+원래 D:\DL data\[3] 1D linear wave from COMSOL 이거랑 같은건데 그냥 여기로 복사해서 편하게 사용
+
+COMSOL: 210907_PINN_important_linear_homo.mph
